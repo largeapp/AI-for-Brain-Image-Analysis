@@ -30,6 +30,8 @@ We aim to develop advanced AI methods and tools for the field of brain science t
   - **Transformer, brain networks**
   - [paper](https://ieeexplore.ieee.org/document/10385857) [code](https://github.com/largeapp/TSEN)
 
+<br>
+
 5. **BrainPST: Pre-training Stacked Transformers for Dynamic Brain Functional Network Analysis**
   - J Hu, Y Huang, Y Zhuo, S Dong, 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2023.
   -  **The first work for pre-training dynamic brain network with generative AI (Transformer)**
