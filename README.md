@@ -74,5 +74,5 @@ We aim to develop advanced AI methods and tools for the field of brain science t
 
 11. **GCN-LRP explanation: exploring latent attention of graph convolutional networks**
 - J Hu, T Li, S Dong, 2020 International Joint Conference on Neural Networks (IJCNN), 1-8. 2020
-- ××GNN explanation with LRP, Explainable AI××
+- **GNN explanation with LRP, Explainable AI**
 - [paper](https://ieeexplore.ieee.org/document/9207639) [code](https://github.com/largeapp/gcn-lrp)
