@@ -5,7 +5,7 @@ We aim to develop advanced AI methods and tools for the field of brain science t
 
 ### Publications
 1. **Identifying major depressive disorder based on cerebral blood flow and brain structure: An explainable multimodal learning study**
-  - J Hu, Y Hou, B Peng, B Liao, Z Xu, Gg Hou, S Dong, under review.
+  - J Hu, Y Hou, B Peng, B Liao, Z Xu, G Hou, S Dong, under review.
   - **ASL, sMRI, Explainable AI**
   - [code](https://github.com/largeapp/eml)
 
