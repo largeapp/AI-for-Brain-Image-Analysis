@@ -2,13 +2,14 @@
 This is the collection of research on artificial intelligence for [brain image analysis](https://github.com/largeapp/Brain-Image-Analysis) from Dr. Jinlong Hu's group at the School of Computer Science and Engineering, South China University of Technology, Guangzhou, China.
 
 ### Publications
-***Spatio-temporal learning and explaining for dynamic functional connectivity analysis: Application to depression***
-  J Hu, J Luo, Z Xu, B Liao, S Dong, B Peng, G Hou
-  Journal of Affective Disorders 364, 266-273, 2024.
+**Spatio-temporal learning and explaining for dynamic functional connectivity analysis: Application to depression**
+  - J Hu, J Luo, Z Xu, B Liao, S Dong, B Peng, G Hou, *Journal of Affective Disorders* 364, 266-273, 2024.
+  - [paper](https://doi.org/10.1016/j.jad.2024.08.014)
 
-***BrainNPT: Pre-training Transformer Networks for Brain Network Classification***
-  J Hu, Y Huang, N Wang, S Dong
-  IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2024, (arxiv 2023).
+**BrainNPT: Pre-training Transformer Networks for Brain Network Classification**
+  - J Hu, Y Huang, N Wang, S Dong, *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, 2024, (arxiv 2023).
+  - [paper](https://ieeexplore.ieee.org/document/10613833)
+  - The first work in pre-training brain network with generative AI (Transformer).
 
 ***Transformer and Snowball Graph Convolution Learning for Brain Functional Network Analysis***
   J Hu, Y Huang, S Dong
