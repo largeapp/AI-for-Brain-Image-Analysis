@@ -23,7 +23,7 @@ We aim to develop advanced AI methods and tools for the field of brain science t
   - J Hu, Y Huang, N Wang, S Dong, *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, 2024, (arxiv 2023).
   - **The first work for pre-training brain network with generative AI (Transformer), Explainable AI**
   - [paper](https://doi.org/10.1109/TNSRE.2024.3434343)
-  - - [code](https://github.com/largeapp/brainnpt) 
+  - [code](https://github.com/largeapp/brainnpt) 
 
 <br>
 
