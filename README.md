@@ -1,5 +1,5 @@
 ### AI-for-Brain-Image-Analysis
-This is the collection of research on artificial intelligence (AI) for brain image analysis from Jinlong HU lab at the School of Computer Science and Engineering, South China University of Technology, Guangzhou, China.
+This is the collection of research on artificial intelligence (AI) for brain image analysis from Dr.Jinlong HU group at the School of Computer Science and Engineering, South China University of Technology, Guangzhou, China.
 
 We aim to develop advanced AI methods and tools for the field of brain science to enhance our understanding, diagnosis, and treatment of brain disorders. We would like to express our gratitude to our talented students and esteemed research collaborators for their invaluable contributions to these studies.
 
