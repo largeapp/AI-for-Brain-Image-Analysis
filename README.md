@@ -1,14 +1,14 @@
 ### AI-for-Brain-Image-Analysis
-This is the collection of research on artificial intelligence (AI) for brain image analysis from Dr. Jinlong HU group  at the School of Computer Science and Engineering, South China University of Technology, Guangzhou, China.
+This is a collection of research on artificial intelligence (AI), specifically focusing on Explainable Artificial Intelligence (XAI) for brain image analysis from Dr. Jinlong HU group at the School of Computer Science and Engineering, South China University of Technology, Guangzhou, China.
 <br>
 Website: [https://largeapp.github.io/](https://largeapp.github.io/). 
 
-We aim to develop advanced AI methods and tools for the field of brain science to enhance our understanding, diagnosis, and treatment of brain disorders. We would like to express our gratitude to our talented students and esteemed research collaborators for their invaluable contributions to these studies.
+We aim to develop advanced AI and XAI methods and tools in the field of brain science to enhance our understanding, diagnosis, and treatment of brain disorders. We would like to express our gratitude to our talented students and esteemed research collaborators for their invaluable contributions to these studies.
 
 ### Publications
 1. **Identifying major depressive disorder based on cerebral blood flow and brain structure: An explainable multimodal learning study**
   - J Hu, Y Hou, B Peng, B Liao, Z Xu, G Hou, S Dong, *Journal of Psychiatric Research*, January 2025.
-  - **ASL, sMRI, Explainable AI**
+  - **ASL, sMRI, XAI**
   - [paper](https://doi.org/10.1016/j.jpsychires.2025.01.001)
   - [code](https://github.com/largeapp/eml)
 
@@ -16,14 +16,14 @@ We aim to develop advanced AI methods and tools for the field of brain science t
 
   2. **Spatio-temporal learning and explaining for dynamic functional connectivity analysis: Application to depression**
   - J Hu, J Luo, Z Xu, B Liao, S Dong, B Peng, G Hou, *Journal of Affective Disorders* 364, 266-273, 2024.
-  - **dynamic FC, Explainable AI**
+  - **dynamic FC, XAI**
   - [paper](https://doi.org/10.1016/j.jad.2024.08.014)
 
 <br>
 
 3. **BrainNPT: Pre-training Transformer Networks for Brain Network Classification**
   - J Hu, Y Huang, N Wang, S Dong, *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, 2024, (arxiv 2023).
-  - **The first work for pre-training brain network with generative AI (Transformer), Explainable AI**
+  - **The first work for pre-training brain network with generative AI (Transformer), XAI**
   - [paper](https://doi.org/10.1109/TNSRE.2024.3434343)
   - [code](https://github.com/largeapp/brainnpt) 
 
@@ -45,14 +45,14 @@ We aim to develop advanced AI methods and tools for the field of brain science t
 
 6. **Identifying suicide attempts, ideation, and non-ideation in major depressive disorder from structural MRI data using deep learning**
   - J Hu, Y Huang, X Zhang, B Liao, G Hou, Z Xu, S Dong, P Li, *Asian journal of psychiatry* 82, 103511, 2023.
-  - **sMRI, Explainable AI**
+  - **sMRI, XAI**
   - [paper](https://www.sciencedirect.com/science/article/pii/S1876201823000655) 
 
 <br>
 
 7. **GAT-LI: a graph attention network based learning and interpreting method for functional brain network classification**
  - J Hu, L Cao, T Li, S Dong, P Li, *BMC bioinformatics* 22, 1-20, 2021.
- - **Brain network, Explainable AI**
+ - **Brain network, XAI**
  - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04295-1) [code](https://github.com/largeapp/gat-li)
 
 <br>
@@ -66,7 +66,7 @@ We aim to develop advanced AI methods and tools for the field of brain science t
 
 9. **Interpretable Learning Approaches in Resting‐State Functional Connectivity Analysis: The Case of Autism Spectrum Disorder**
   - J Hu, L Cao, T Li, B Liao, S Dong, P Li, *Computational and mathematical methods in medicine* 2020 (1), 1394830, 2020.
-  - **rs-FC, Explainable AI**
+  - **rs-FC, XAI**
   - [paper](https://onlinelibrary.wiley.com/doi/10.1155/2020/1394830) [code](https://github.com/largeapp/ifc)
 
 <br>
@@ -80,5 +80,5 @@ We aim to develop advanced AI methods and tools for the field of brain science t
 
 11. **GCN-LRP explanation: exploring latent attention of graph convolutional networks**
 - J Hu, T Li, S Dong, 2020 International Joint Conference on Neural Networks (IJCNN), 1-8. 2020
-- **GNN explanation with LRP, Explainable AI**
+- **GNN explanation with LRP, XAI**
 - [paper](https://ieeexplore.ieee.org/document/9207639) [code](https://github.com/largeapp/gcn-lrp)
