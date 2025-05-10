@@ -1,5 +1,5 @@
 ### AI-for-Brain-Image-Analysis
-This is a collection of research on artificial intelligence (AI), specifically focusing on Explainable Artificial Intelligence (XAI) for brain image analysis from Prof. Jinlong HU group at the School of Computer Science and Engineering, South China University of Technology, Guangzhou, China.
+This is a collection of research on Artificial Intelligence (AI), specifically focusing on eXplainable Artificial Intelligence (XAI) for brain image analysis from Prof. Jinlong HU group at the School of Computer Science and Engineering, South China University of Technology, Guangzhou, China.
 <br>
 Website: [https://largeapp.github.io/](https://largeapp.github.io/). 
 
