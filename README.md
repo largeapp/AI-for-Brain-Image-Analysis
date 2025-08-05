@@ -3,7 +3,7 @@ This is a collection of research on Artificial Intelligence (AI), specifically f
 <br>
 Website: [https://largeapp.github.io/](https://largeapp.github.io/). 
 
-We aim to develop advanced AI and XAI methods and tools in the field of brain science to enhance our understanding, diagnosis, and treatment of brain disorders. We would like to express our gratitude to our talented students and esteemed research collaborators for their invaluable contributions to these studies.
+We aim to develop advanced AI methods, specifically explainable AI (XAI), in the field of brain science to enhance our understanding, diagnosis, and treatment of brain disorders. We would like to express our gratitude to our talented students and esteemed research collaborators for their invaluable contributions to these studies.
 
 ### Publications
 1. **DGX: Uncovering General Behavior of Deep Graph Models with Model-level Explanation**
