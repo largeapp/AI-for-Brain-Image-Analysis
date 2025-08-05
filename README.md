@@ -2,7 +2,6 @@
 This is a collection of research on Artificial Intelligence (AI), specifically focusing on eXplainable Artificial Intelligence (XAI) for brain image analysis from Prof. Jinlong HU group at the School of Computer Science and Engineering, South China University of Technology, Guangzhou, China. (Website: [https://largeapp.github.io/](https://largeapp.github.io/)). 
 
 We aim to develop advanced AI methods, specifically explainable AI (XAI), in the field of brain science to enhance our understanding, diagnosis, and treatment of brain disorders. We would like to express our gratitude to our talented students and esteemed research collaborators for their invaluable contributions to these studies. 
-<br>
 
 The common, though somewhat outdated, list of AI applications in brain image analysis can be found at: [https://github.com/largeapp/Brain-Image-Analysis](https://github.com/largeapp/Brain-Image-Analysis)
 
