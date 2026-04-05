@@ -10,7 +10,7 @@ The common, though somewhat outdated, list of AI applications in brain image ana
   - Jinlong Hu, Jiatong Huang, Zijian Cai, *arXiv preprint arXiv:2603.24603*, March 2026. 
   - **Dynamic brain networks, SWC, PS**
   - [paper](https://arxiv.org/abs/2603.24603)
-  - 
+    
 <br>
 
 2. **TMN: Learning multi-timescale functional connectivity for identifying brain disorders**
